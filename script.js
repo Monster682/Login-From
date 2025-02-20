@@ -1,4 +1,8 @@
-
+const containerEl = document.querySelector('.container');
+const checkboxEl = document.querySelector('.form-container .form-row input[type="checkbox"]');
+const nameEl = document.querySelector('.form-container .form-row input[name="name"]');
+const emailEl = document.querySelector('.form-container .form-row input[name="email"]');
+const submitBtn = document.querySelector('.form-container .form-row input[type="submit"]');
 
 const sprayer = document.querySelector('.sprayer');
 const sprayHandContainer = document.querySelector('.spray-hand-container');
