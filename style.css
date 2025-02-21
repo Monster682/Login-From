@@ -82,9 +82,3 @@ svg {
     font-family: inherit;
 }
 
-svg {
-    stroke-width: 1.2px;
-    /*stroke: #222245;*/
-    stroke: #000000;
-    fill: none
-}
